@@ -132,8 +132,12 @@ This project is for educational purposes.
 
 ## Screenshots
 
-![Chat UI Screenshot](assets/hites.jpg)
+![Chat UI Screenshot](assets/persona_ss.png)
 
 ---
+
+## Video Demo
+
+![Chat Demo](assets/persona_vid.mov)
 
 Happy coding! Chai aur Code
