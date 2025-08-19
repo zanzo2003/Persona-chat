@@ -138,6 +138,6 @@ This project is for educational purposes.
 
 ## Video Demo
 
-![Chat Demo](https://youtu.be/XozqWfZhW88)
+[Watch the Chat Demo on YouTube](https://youtu.be/XozqWfZhW88)
 
 Happy coding! Chai aur Code
